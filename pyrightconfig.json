@@ -1,0 +1,12 @@
+{
+  "venvPath": ".",
+  "venv": "pneumonia_env",
+  "pythonVersion": "3.12",
+  "include": [
+    "*.py"
+  ],
+  "exclude": [
+    "pneumonia_env",
+    "__pycache__"
+  ]
+}

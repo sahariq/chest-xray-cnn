@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+pneumonia_env/
+.venv/
+venv/
+
+# Local data and generated artifacts
+dataset/
+mock_dataset/
+outputs/
+outputs_smoke/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*.log
+
+# Local temporary files
+.compile_status.txt
