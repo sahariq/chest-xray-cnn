@@ -1,6 +1,6 @@
 # Medical Image Classification (Chest X-Ray): Pneumonia Detection
 
-A recruiter-ready deep learning project that classifies chest X-ray images into **NORMAL** vs **PNEUMONIA** using TensorFlow/Keras.
+A deep learning project that classifies chest X-ray images into **NORMAL** vs **PNEUMONIA** using TensorFlow/Keras.
 
 This repository demonstrates:
 - end-to-end ML workflow (data loading, training, evaluation, experiment tracking)
